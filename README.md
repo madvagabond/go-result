@@ -1,7 +1,7 @@
 # result-go 
 
 A result monad for go. 
-``go 
+``
 
 ok := result.Ok("hello")
 
